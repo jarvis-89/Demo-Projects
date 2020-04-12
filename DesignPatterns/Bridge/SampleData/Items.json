@@ -1,0 +1,74 @@
+[
+    {
+       "Id": 1,
+       "CategoryId" : 1,
+       "Name": "Ashirvad Aata",
+       "Price" : 105.35
+    },
+    {
+        "Id": 2,
+        "CategoryId" : 1,
+        "Name": "Tur Dal",
+        "Price" : 83.14
+     },
+     {
+        "Id": 3,
+        "CategoryId" : 1,
+        "Name": "Sugar",
+        "Price" : 37.50
+     },
+     {
+        "Id": 4,
+        "CategoryId" : 2,
+        "Name": "Park avenue deo",
+        "Price" : 199.00
+     },
+     {
+         "Id": 5,
+         "CategoryId" : 2,
+         "Name": "Talcum Powder",
+         "Price" : 53.20
+      },
+      {
+         "Id": 6,
+         "CategoryId" : 2,
+         "Name": "Face wash",
+         "Price" : 99.00
+      },
+      {
+        "Id": 7,
+        "CategoryId" : 3,
+        "Name": "Choostix",
+        "Price" : 410
+     },
+     {
+         "Id": 8,
+         "CategoryId" : 3,
+         "Name": "Bird seed",
+         "Price" : 35
+      },
+      {
+         "Id": 9,
+         "CategoryId" : 3,
+         "Name": "Fodder",
+         "Price" : 19.99
+      },
+      {
+        "Id": 10,
+        "CategoryId" : 4,
+        "Name": "Knife",
+        "Price" : 39.00
+     },
+     {
+         "Id": 11,
+         "CategoryId" : 4,
+         "Name": "Pressure Cooker",
+         "Price" : 2199.99
+      },
+      {
+         "Id": 12,
+         "CategoryId" : 4,
+         "Name": "Belan",
+         "Price" : 29.99
+      }
+ ]
